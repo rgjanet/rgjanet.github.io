@@ -12,6 +12,8 @@ menu_settings:
       url: '/'
     - title: 'Blog'
       url: '/blog/'
+    - title: 'Podcast'
+      url: 'https://anchor.fm/dentrodeltardis'
     - title: 'Acerca'
       url: '/acerca'
     - title: 'Contacto'
