@@ -16,7 +16,6 @@ Cuando no estoy investigando para escribir un blog, tomando fotografías o edita
 * Creación de contenido digital
 * Mercadeo de contenido
 * Estrategias de redes sociales
-* Gestión de relaciones con el cliente
 * Edición de vídeo y audio
 * Producción de podcasts
 
