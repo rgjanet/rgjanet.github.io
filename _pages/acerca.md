@@ -15,8 +15,10 @@ Cuando no estoy investigando para escribir un blog, tomando fotografías o edita
 
 * Creación de contenido digital
 * Mercadeo de contenido
-* Estrategias de redes sociales
+* Estrategias para redes sociales
 * Edición de vídeo y audio
+* Fotografía
 * Producción de podcasts
+* Asistencia editorial
 
 <a href="mailto:janet@rgjanet.com" class="button button--large">Hablemos</a>
