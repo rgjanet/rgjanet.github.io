@@ -14,5 +14,6 @@ Conoce a Las Marías, de [Las Marías Estudio Editorial](https://www.lasmariased
 	<img src="https://www.rgjanet.com/images/LasMarias/LasMarias2.png">
 	<img src="https://www.rgjanet.com/images/LasMarias/LasMarias1.png">
 	<img src="https://www.rgjanet.com/images/LasMarias/LasMarias3.png">
-	<img src="https://www.rgjanet.com/images/LasMarias/LasMarias4.pngg">
+	<img src="https://www.rgjanet.com/images/LasMarias/LasMarias4.png">
+	<img src="https://www.rgjanet.com/images/LasMarias/LasMarias5.png">
 </div>
