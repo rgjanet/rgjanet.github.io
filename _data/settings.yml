@@ -20,7 +20,7 @@ menu_settings:
       url: '/contacto'
 
 footer_settings:
-  logo_image: 'https://www.rgjanet.com/images/Proyectos/rgjanet.png'
+  logo_image:
   logo_width: 200
   footer_tagline: 
 
