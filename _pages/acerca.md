@@ -20,5 +20,7 @@ Cuando no estoy investigando para escribir un blog, tomando fotografías o edita
 * Fotografía
 * Producción de podcasts
 * Asistencia editorial
+* Servicio al cliente
+* Lectura profesional de textos
 
 <a href="mailto:janet@rgjanet.com" class="button button--large">Hablemos</a>
