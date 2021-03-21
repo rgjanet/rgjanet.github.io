@@ -5,9 +5,7 @@ description: ¡Hola! Soy Janet Rodríguez y creo estrategias de contenidos digit
 featured_image: /images/Proyectos/videos-rgjanet.png
 ---
 
-<div align="left">
-![Janet Rodríguez](https://www.rgjanet.com/images/rgjanet-2.png)
-  </div>
+![Janet Rodríguez](https://www.rgjanet.com/images/rgjanet-4.png)
 
 ¡Hola! Soy Janet Rodríguez y creo contenido digital para empresas y emprendedores. También hablo sobre Doctor Who en el podcast [Dentro del TARDIS](http://www.anchor.com/dentrodeltardis) (Spotify, Apple Podcasts).
 
