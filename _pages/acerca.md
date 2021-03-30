@@ -18,6 +18,9 @@ Cuando no estoy investigando para escribir un blog, tomando fotografías o edita
 * Creación de contenido digital
 * Mercadeo de contenido
 * Estrategias para redes sociales
+* Redacción de artículos para prensa tradicional y digital
+* Entrevistas
+* Cobertura de eventos
 * Edición de vídeo y audio
 * Fotografía
 * Producción de podcasts
