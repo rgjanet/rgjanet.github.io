@@ -16,7 +16,7 @@ menu_settings:
       url: 'https://anchor.fm/dentrodeltardis'
     - title: 'Acerca'
       url: '/acerca'
-    - title: 'Contacto'
+    - title: 'Trabajemos juntos'
       url: '/contacto'
 
 footer_settings:
