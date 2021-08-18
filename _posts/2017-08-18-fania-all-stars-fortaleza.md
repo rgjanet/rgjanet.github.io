@@ -5,7 +5,7 @@ date: 2017-08-18 12:00:00
 description: La Fortaleza recibió a los integrantes de Fania All-Stars en el Salón de los Espejos del Palacio Santa Catalina, como antesala al concierto “The Last Fania Legends”.
 featured_image: '/images/Fania/Fania-2.png'
 ---
-<i>Escrito para zeta93.fm</a>.
+<i>Escrito para zeta93.fm</i>.
 
 El gobernador de Puerto Rico, Ricardo Rosselló Nevares, recibió a los integrantes de Fania All-Stars en el Salón de los Espejos del Palacio Santa Catalina, como antesala al concierto “The Last Fania Legends”.
 
@@ -24,8 +24,3 @@ Los integrantes del reconocido grupo musical ofrecieron detalles sobre el concie
 La cartelera del concierto estará compuesta por Ismael Miranda, Papo Lucca, Richie Ray y Bobby Cruz, Bobby Valentín, Adalberto Santiago, Larry Harlow, Nicky Marrero e Isidro Infante. De igual forma, Domingo Quiñones rendirá un tributo a Héctor Lavoe y Eddie Montalvo.
 
 El montaje del concierto contará con un círculo de 65 pies de diámetro en el escenario, como nunca antes visto en Puerto Rico, además de sobre 200 máquinas movibles y efectos especiales.
-
-<div class="gallery" data-columns="3">
-	<img src="https://www.rgjanet.com/images/Fania/Fania-1.png">
-	<img src="https://www.rgjanet.com/images/Fania/Fania-2.png">
-</div>
