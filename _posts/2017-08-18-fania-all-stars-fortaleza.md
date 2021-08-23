@@ -5,7 +5,9 @@ date: 2017-08-18 12:00:00
 description: La Fortaleza recibió a los integrantes de Fania All-Stars en el Salón de los Espejos del Palacio Santa Catalina, como antesala al concierto “The Last Fania Legends”.
 featured_image: '/images/Fania/Fania-2.png'
 ---
-<i>Escrito para zeta93.fm</i>.
+<img src="www.rgjanet.com/images/Fania/Fania-2.png">
+
+<i>Escrito, fotos y vídeos preparados para zeta93.fm</i>.
 
 El gobernador de Puerto Rico, Ricardo Rosselló Nevares, recibió a los integrantes de Fania All-Stars en el Salón de los Espejos del Palacio Santa Catalina, como antesala al concierto “The Last Fania Legends”.
 
