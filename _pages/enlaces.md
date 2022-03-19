@@ -1,12 +1,11 @@
 ---
 title: Enlaces
-subtitle: Contemos juntos tu historia digital.
+subtitle: ¡Bienvenidos a rgjanet.com!
 description: ¡Hola! Soy Janet Rodríguez y creo estrategias de contenidos digitales y redes sociales para empresas y emprendedores.
 featured_image: /images/Proyectos/videos-rgjanet.png
 ---
 
 <div align="center">
-<h1>¡Bienvenidos a rgjanet.com!</h1>
   
   <p>**Libros**</p>
   
