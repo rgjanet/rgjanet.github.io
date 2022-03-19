@@ -4,7 +4,6 @@ description: ¡Hola! Soy Janet Rodríguez y creo estrategias de contenidos digit
 featured_image: /images/Proyectos/videos-rgjanet.png
 ---
 
-<div align="center">
  <h1>¡Bienvenidos a rgjanet.com!<h1>
   
   ![Janet Rodríguez](https://www.rgjanet.com/images/rgjanet-4.png)
@@ -21,5 +20,4 @@ featured_image: /images/Proyectos/videos-rgjanet.png
 
   <p><a href="https://www.instagram.com/rgjanet/" class="button button--large">Instagram</a></p>
   <p><a href="https://twitter.com/RGJanet" class="button button--large">Twitter</a></p>
-  
-</div>
+
