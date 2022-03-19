@@ -8,17 +8,17 @@ featured_image: /images/Proyectos/videos-rgjanet.png
 <div align="center">
 <h1>¡Bienvenidos a rgjanet.com!</h1>
   
-**Libros**
+  <p>**Libros**</p>
   
-<a href="http://libros.rgjanet.com/" class="button button--large">Falsaria</a>
+  <p><a href="http://libros.rgjanet.com/" class="button button--large">Falsaria</a></p>
 
-**Lo más reciente en el blog**
+  <p>**Lo más reciente en el blog**</p>
 
-<a href="https://rgjanet.com/blog/las-marias-hacen-libros" class="button button--large">Por qué Las Marías hacen libros</a>
+<p><a href="https://rgjanet.com/blog/las-marias-hacen-libros" class="button button--large">Por qué Las Marías hacen libros</a></p>
 
-**Redes Sociales**
+  <p>**Redes Sociales**</p>
 
-<a href="https://www.instagram.com/rgjanet/" class="button button--large">Instagram</a>
-<a href="https://twitter.com/RGJanet" class="button button--large">Twitter</a>
+  <p><a href="https://www.instagram.com/rgjanet/" class="button button--large">Instagram</a></p>
+  <p><a href="https://twitter.com/RGJanet" class="button button--large">Twitter</a></p>
   
 </div>
