@@ -6,7 +6,7 @@ featured_image: /images/Proyectos/videos-rgjanet.png
 
  <h1 align="center">¡Bienvenidos a rgjanet.com!<h1>
   
-  ![Janet Rodríguez](https://www.rgjanet.com/images/rgjanet-4.png)
+<img src="https://www.rgjanet.com/images/rgjanet-4.png" align="center">
   
   <p align="center"><h3>Libros</h3></p>
   
