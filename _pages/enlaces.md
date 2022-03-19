@@ -7,6 +7,8 @@ featured_image: /images/Proyectos/videos-rgjanet.png
 <div align="center">
  <h1>¡Bienvenidos a rgjanet.com!<h1>
   
+  ![Janet Rodríguez](https://www.rgjanet.com/images/rgjanet-4.png)
+  
   <p><h3>Libros</h3></p>
   
   <p><a href="http://libros.rgjanet.com/" class="button button--large">Falsaria</a></p>
