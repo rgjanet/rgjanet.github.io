@@ -14,6 +14,8 @@ menu_settings:
       url: '/blog/'
     - title: 'Acerca'
       url: '/acerca'
+    - title: 'Libros'
+      url: '/libros'      
     - title: 'Trabajemos juntos'
       url: '/contacto'
 
