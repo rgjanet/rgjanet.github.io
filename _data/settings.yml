@@ -15,7 +15,7 @@ menu_settings:
     - title: 'Acerca'
       url: '/acerca'
     - title: 'Libros'
-      url: '/libros'      
+      url: 'http://libros.rgjanet.com/'      
     - title: 'Trabajemos juntos'
       url: '/contacto'
 
