@@ -17,7 +17,7 @@ menu_settings:
     - title: 'Libros'
       url: 'http://libros.rgjanet.com/'      
     - title: 'Trabajemos juntos'
-      url: '/contacto'
+      url: 'mailto:janet@rgjanet.com'
 
 footer_settings:
   logo_image:
