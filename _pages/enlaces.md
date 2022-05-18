@@ -14,7 +14,7 @@ featured_image: /images/Proyectos/videos-rgjanet.png
   
 <p align="center"><a href="http://libros.rgjanet.com/" class="button button--large">Falsaria</a></p>
 
-<h3 align="center">Redes Sociales</h3>
+<h3 align="center">Redes sociales</h3>
 
 <p align="center"><a href="https://www.instagram.com/rgjanet/" class="button button--large">Instagram</a></p>
 <p align="center"><a href="https://twitter.com/RGJanet" class="button button--large">Twitter</a></p>
