@@ -76,8 +76,7 @@ color_settings:
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@900&display=swap" rel="stylesheet">'
-  font_embed: '<link href="https://fonts.googleapis.com/css2?family=Mulish&display=swap" rel="stylesheet">'
+  font_embed: '<link href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@900&display=swap"  rel="stylesheet">'
   title_font: '"Source Serif Pro", sans-serif'
   body_font: '"Mulish", sans-serif'
   regular_weight: 400
@@ -113,6 +112,7 @@ font_settings:
     weight: 700
     letter_spacing: -0.02
     line_height: 1.2
+    align: center
   h2:
     small_size: 22
     medium_size: 30
