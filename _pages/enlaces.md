@@ -5,6 +5,8 @@ description: ¡Hola! Soy Janet Rodríguez y creo estrategias de contenidos digit
 featured_image: /images/Proyectos/videos-rgjanet.png
 ---
 
+<img src="www.rgjanet.com/images/Proyectos/videos-rgjanet.png">
+
 <p>¡Hola! Soy Janet Rodríguez y creo contenido digital para empresas y emprendedores. También hablo sobre Doctor Who en el podcast Dentro del TARDIS (Spotify, Apple Podcasts).</p>
 
 <p>Actualmente, soy escritora, periodista y creadora de contenido digital autónoma. He tenido la oportunidad de trabajar contenido digital para marcas como Las Marías Estudio Editorial, Univision, Score Inc, Spanish Broadcasting System (SBS), Tírate PR, Diary of Trips y El Fogón de la 31.</p>
@@ -15,7 +17,7 @@ featured_image: /images/Proyectos/videos-rgjanet.png
 
 <p align="center"><img src="https://www.rgjanet.com/images/rgjanet-4.png" align="center"></p>
 
-<h3 align"center">Conoce más sobre Falsaria, mi muchachito literario</h3>
+<h3 align="center">Conoce más sobre <i>Falsaria</i></h3>
 
 <p>Todo comienza con la clave.
 
