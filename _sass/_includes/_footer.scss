@@ -33,6 +33,7 @@
 .footer__title {
 	font-size: $sitetitle-small;
 	font-weight: $sitetitle-weight;
+	font-family: Source Serif Pro;
 	letter-spacing: $sitetitle-spacing;
 	line-height: 1;
 	color: $text-medium-color;
@@ -52,6 +53,7 @@
 
 .footer__text {
 	color: $text-light-color;
+	font-family: Mulish;
 }
 
 .footer__copyright {
