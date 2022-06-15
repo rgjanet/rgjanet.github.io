@@ -10,7 +10,7 @@ description: ¡Hola! Soy Janet Rodríguez y creo estrategias de contenidos digit
 
 <p>Actualmente, soy escritora, periodista y creadora de contenido digital autónoma. Cuando no estoy investigando para escribir un blog, tomando fotografías o editando un vídeo o episodio de podcast, escribo cuentos.</p>
 
-<p>Puedes escribirme a <a href="mailto:janet@rgjanet.com">janet@rgjanet.com</a></p>.
+<p>Puedes escribirme a <a href="mailto:janet@rgjanet.com">janet@rgjanet.com</a>.</p>
 
 <h3 align="center">Lo más reciente en el blog</h3>
 
