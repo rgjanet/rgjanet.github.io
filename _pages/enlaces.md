@@ -1,4 +1,5 @@
 ---
+layout: enlaces
 title: ¡Bienvenidos a rgjanet.com!
 description: ¡Hola! Soy Janet Rodríguez y creo estrategias de contenidos digitales y redes sociales para empresas y emprendedores.
 featured_image: /images/Proyectos/videos-rgjanet.png
