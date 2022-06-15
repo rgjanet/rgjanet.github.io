@@ -4,7 +4,7 @@ title: ¡Bienvenidos a rgjanet.com!
 description: ¡Hola! Soy Janet Rodríguez y creo estrategias de contenidos digitales y redes sociales para empresas y emprendedores.
 ---
 
-<img src="[/images/Proyectos/videos-rgjanet.png](https://www.rgjanet.com/images/rgjanet-4.png)">
+<img src="https://www.rgjanet.com/images/rgjanet-4.png">
 
 <p>¡Hola! Soy Janet Rodríguez y creo contenido digital para empresas y emprendedores. También hablo sobre Doctor Who en el podcast Dentro del TARDIS (Spotify, Apple Podcasts).</p>
 
