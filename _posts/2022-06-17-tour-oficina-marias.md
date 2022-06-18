@@ -8,4 +8,17 @@ featured_image: "/images/LasMarias/LasMarias1.png"
 ---
 En la ofi de Las Marías no solo se gestan libros. ¡También se pasa chévere! 
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6943660134749396992" height="701" width="504" frameborder="0" allowfullscreen="" title="Embedded post" align="center"></iframe>
+<div class="iframe-container">
+  <!--iframe link is the link to the jsfiddle-->
+  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6943660134749396992"></iframe>
+</div>
+
+<style>
+  .iframe-container {
+		text-align:center;
+  		width:100%;
+    height:701px;
+    width:504px;
+  }
+</style>
+
