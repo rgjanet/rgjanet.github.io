@@ -109,6 +109,10 @@
 			padding-left: 25px;
 		}
 	}
+	iframe {
+		align:center;
+	}
+	
 
 	.highlighter-rouge,
 	table {
@@ -329,7 +333,4 @@
 	width: 100%;
 	height: 100%;
 	}
-}
-.iframe {
-	align:center;
 }
