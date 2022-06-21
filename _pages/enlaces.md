@@ -14,7 +14,7 @@ description: ¡Hola! Soy Janet Rodríguez y creo estrategias de contenidos digit
 
 <h3 align="center">Lo más reciente en el blog</h3>
 
-<p align="center"><a href="https://rgjanet.com/blog/las-marias-hacen-libros" class="button button--large">Por qué Las Marías hacen libros</a></p>
+<p align="center"><a href="https://rgjanet.com/blog/tour-oficina-marias" class="button button--large"> Un tour por la oficina de Las Marías</a></p>
   
 <h3 align="center">Libros</h3>
   
