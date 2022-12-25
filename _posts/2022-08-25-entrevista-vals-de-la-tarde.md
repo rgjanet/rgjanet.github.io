@@ -7,7 +7,6 @@ featured_image: "/images/LasMarias/ElValsDeLaTarde.png"
 facebookId: 1039059253325957
 ---
 ¿Buscas conectar con esa naturaleza creativa que es parte de ti, pero que no ejerces con libertad? Te contamos sobre “Despierta tu arte”, un taller de Yésica Isabel que te ayudará a encontrar y estar consciente de esas barreras que no nos permiten crear libremente.
-<br />
-<br />
+<br>
 
 {% include facebookPlayer.html id=page.facebookId %}
