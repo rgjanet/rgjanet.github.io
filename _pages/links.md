@@ -25,4 +25,5 @@ description: ¡Hola! Soy Janet Rodríguez y creo estrategias de contenidos digit
 
 <p align="center"><a href="https://www.instagram.com/rgjanet/" class="button button--large">Instagram</a></p>
 <p align="center"><a href="https://twitter.com/RGJanet" class="button button--large">Twitter</a></p>
+<p align="center"><a href="https://www.linkedin.com/in/rgjanet/" class="button button--large">LinkedIn</a></p>
 
