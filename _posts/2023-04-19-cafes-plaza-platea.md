@@ -4,7 +4,7 @@ subtitle: Una buena taza de café suele estar acompañada de una impresionante v
 date: 2023-04-19T12:00:00.000+00:00
 description: Una buena taza de café suele estar acompañada de una impresionante vista. Y cualquier excusa es buena para irse de roadtrip para degustar una o dos tacitas frente a algunas de las plazas públicas más hermosas de Puerto Rico. 
 featured_image: "/images/CafePlaza.png"
-instagramId: p/CrN8Za3P0Jw
+instagramId: CrN8Za3P0Jw
 ---
 <p>Una buena taza de café suele estar acompañada de una impresionante vista. Y cualquier excusa es buena para irse de roadtrip para degustar una o dos tacitas frente a algunas de las plazas públicas más hermosas de Puerto Rico. </p>
 
