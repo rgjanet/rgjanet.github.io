@@ -6,6 +6,4 @@ group :jekyll_plugins do
   gem 'jekyll-paginate'
   gem 'jekyll-sitemap'
 
-group :react-social-media-embed do
-  gem 'InstagramEmbed'
 end
