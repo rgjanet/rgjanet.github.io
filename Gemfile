@@ -5,5 +5,7 @@ gem 'jekyll', '3.8.5'
 group :jekyll_plugins do
   gem 'jekyll-paginate'
   gem 'jekyll-sitemap'
-  gem 'react-social-media-embed'
+
+group :react-social-media-embed do
+  gem 'InstagramEmbed'
 end
