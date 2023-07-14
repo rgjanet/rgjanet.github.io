@@ -12,4 +12,4 @@ instagramId:
 
 <p>Lee la nota: <a href="https://www.plateapr.com/curiosidades-del-flamboyan-y-donde-encontrarlos/">7 curiosidades del flamboyán y dónde encontrarlos</a></p>
 
-<p><a href="https://www.instagram.com/p/CuXy2eLMjgi/">![Flamboyanes en Puerto Rico](/images/flamboyanesIG.png)</a></p>
+<p><a href="https://www.instagram.com/p/CuXy2eLMjgi/">![Flamboyanes en Puerto Rico](https://www.rgjanet.com/images/flamboyanesIG.png)</a></p>
