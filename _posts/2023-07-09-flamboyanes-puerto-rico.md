@@ -8,8 +8,10 @@ instagramId:
 ---
 ![Flamboyanes en Puerto Rico](/images/flamboyanes.png)
 
-<p>Como parte de mis asignaciones en Platea PR, me di a la tarea de cazar flamboyanes alrededor de Puerto Rico durante dos meses. Presiona la foto a continuación para ver el reel con par de curiosidades y dónde encontrarlos.</p>
+<p>Como parte de mis asignaciones en Platea PR, me di a la tarea de cazar flamboyanes alrededor de Puerto Rico durante dos meses.</p>
 
 <p>Lee la nota: <a href="https://www.plateapr.com/curiosidades-del-flamboyan-y-donde-encontrarlos/">7 curiosidades del flamboyán y dónde encontrarlos</a></p>
+
+<p><b>Presiona la foto a continuación</b> para ver el reel con par de curiosidades y dónde encontrarlos.</p>
 
 <p><a href="https://www.instagram.com/p/CuXy2eLMjgi/"><img src="https://www.rgjanet.com/images/flamboyanesIG.png"></a></p>
