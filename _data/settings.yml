@@ -16,7 +16,7 @@ menu_settings:
       url: '/blog/'
     - title: 'Acerca'
       url: '/acerca'
-    - title: 'Trabajemos juntos'
+    - title: 'Contacto'
       url: 'mailto:janet@rgjanet.com'
 
 footer_settings:
