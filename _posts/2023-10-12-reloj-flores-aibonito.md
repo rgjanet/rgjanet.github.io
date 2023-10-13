@@ -10,6 +10,6 @@ facebookID: 1159698491658165
 
 <p>Aibonito cuenta con un nuevo atractivo turístico. El Reloj de Puerto Rico, uno de los pocos relojes florales de gran tamaño en el mundo, abrió al público a principios de octubre.</p>
 
-<p>Lee la nota: <a href="https://www.plateapr.com/el-reloj-de-aibonito-el-nuevo-atractivo-turistico-canta-la-borinquena/">El Reloj de Aibonito, el nuevo atractivo turístico que toca “La Borinqueña”</a></p>
+<p>Lee la nota completa: <a href="https://www.plateapr.com/el-reloj-de-aibonito-el-nuevo-atractivo-turistico-canta-la-borinquena/">El Reloj de Aibonito, el nuevo atractivo turístico que toca “La Borinqueña”</a></p>
 
-
+<p>{% include facebookPlayer.html id=page.facebookId %}</p>
