@@ -16,6 +16,8 @@ menu_settings:
       url: '/blog/'
     - title: 'Acerca'
       url: '/acerca'
+    - title: 'Rate Card'
+      url: '/ratecard-2023.pdf'
     - title: 'Contacto'
       url: 'mailto:janet@rgjanet.com'
 
