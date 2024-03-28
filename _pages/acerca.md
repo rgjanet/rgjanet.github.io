@@ -1,13 +1,13 @@
 ---
 title: Acerca
-subtitle: Contemos juntos tu historia digital.
+subtitle: 
 description: ¡Hola! Soy Janet Rodríguez y creo estrategias de contenidos digitales y redes sociales para empresas y emprendedores.
 featured_image: /images/Proyectos/videos-rgjanet.png
 ---
 
-![Janet Rodríguez](https://www.rgjanet.com/images/rgjanet-4.png)
+![Janet Rodríguez](https://www.rgjanet.com/images/rgjanet.png)
 
-¡Hola! Soy Janet Rodríguez y creo contenido digital para empresas y emprendedores. También hablo sobre Doctor Who en el podcast [Dentro del TARDIS](http://www.anchor.com/dentrodeltardis) (Spotify, Apple Podcasts).
+¡Hola! Soy Janet Rodríguez y creo contenido digital para emprendedores y compañías.
 
 Actualmente, soy escritora, periodista y creadora de contenido digital autónoma. He tenido la oportunidad de trabajar contenido digital para marcas como Las Marías Editorial, El Fogón de la 31, Tírate PR, Diary of Trips, Zheimer Puzzles, Bound Magazine, Agrochic, and Libros787.
 
