@@ -9,7 +9,7 @@ featured_image: /images/Proyectos/videos-rgjanet.png
 
 ¡Hola! Soy Janet Rodríguez y creo contenido digital para empresas y emprendedores. También hablo sobre Doctor Who en el podcast [Dentro del TARDIS](http://www.anchor.com/dentrodeltardis) (Spotify, Apple Podcasts).
 
-Actualmente, soy escritora, periodista y creadora de contenido digital autónoma. He tenido la oportunidad de trabajar contenido digital para marcas como Las Marías Estudio Editorial, Univision, Score Inc, Spanish Broadcasting System (SBS), Tírate PR, Diary of Trips y El Fogón de la 31.
+Actualmente, soy escritora, periodista y creadora de contenido digital autónoma. He tenido la oportunidad de trabajar contenido digital para marcas como Las Marías Editorial, El Fogón de la 31, Tírate PR, Diary of Trips, Zheimer Puzzles, Bound Magazine, Agrochic, and Libros787.
 
 Cuando no estoy investigando para escribir un blog, tomando fotografías o editando un vídeo o episodio de podcast, escribo cuentos.
 
