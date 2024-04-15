@@ -5,23 +5,16 @@ description: ¡Hola! Soy Janet Rodríguez y creo estrategias de contenidos digit
 featured_image: /images/Proyectos/videos-rgjanet.png
 ---
 
-![Janet Rodríguez](https://www.rgjanet.com/images/rgjanet.png)
-
 ¡Hola! Soy Janet Rodríguez y creo contenido digital para emprendedores y compañías.
 
-Actualmente, soy escritora, periodista y creadora de contenido digital autónoma. He tenido la oportunidad de trabajar contenido digital para marcas como Las Marías Editorial, El Fogón de la 31, Tírate PR, Diary of Trips, Zheimer Puzzles, Bound Magazine, Agrochic, and Libros787.
+Actualmente, soy escritora, periodista y creadora de contenido digital autónoma. He tenido la oportunidad de trabajar contenido digital para marcas como Las Marías Editorial, El Fogón de la 31, Tírate PR, Diary of Trips, Zheimer Puzzles, Bound Magazine, Agrochic y Libros787.
 
 Cuando no estoy investigando para escribir un blog, tomando fotografías o editando un vídeo o episodio de podcast, escribo cuentos.
 
 **¿Qué hago?**
 
 * Creación de contenido digital
-* Mercadeo de contenido
-* Estrategias para redes sociales
-* Manejo de redes sociales
 * Redacción de escritos
-* Entrevistas
-* Cobertura de eventos
 * Edición de vídeo y audio
 * Fotografía
 * Producción de podcasts
