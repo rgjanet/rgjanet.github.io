@@ -18,9 +18,14 @@ Cuando no estoy investigando para escribir un blog, tomando fotografías o edita
 * Edición de vídeo y audio
 * Fotografía
 * Producción de podcasts
+
+Además de productora de contenido, también trabajo en las siguientes áreas:
+
 * Maquetación de libros
 * Edición y corrección de textos
 * Lectura profesional de textos
+* Producción de programas de entrevistas
+* Coordinadora de producción
 * Servicio al cliente
 
 <a href="mailto:janet@rgjanet.com" class="button button--large">¡Trabajemos juntos!</a>
