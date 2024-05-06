@@ -28,4 +28,6 @@ Además de productora de contenido, también trabajo en las siguientes áreas:
 * Coordinadora de producción
 * Servicio al cliente
 
+Puedes ver mi resumé completo <a href="https://www.linkedin.com/in/rgjanet/"><b>aquí</b></a>.
+
 <a href="mailto:janet@rgjanet.com" class="button button--large">¡Trabajemos juntos!</a>
