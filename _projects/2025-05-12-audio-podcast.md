@@ -8,10 +8,10 @@ featured_image: '/images/audio.png'
 
 Mi reacción al tráiler de la nueva temporada de Doctor Who, que regresó a principios de 2020. Grabación y edición.
 <br>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5qw1LNtRvwJmi8V04AQwBT?utm_source=generator&theme=0" width="560" height="315" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5qw1LNtRvwJmi8V04AQwBT?utm_source=generator&theme=0" width="100%" height="315" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Crystal Díaz: Apuesta a la producción agrícola local (Platea PR, 2025)**
+**Crystal Díaz: Apuesta a la producción agrícola local (2025)**
 
-Para Crystal Díaz, cofundadora de PRoduce, analista de seguridad alimentaria en Espacios Abiertos y cofundadora de la agro hospedería El Pretexto, consumir productos locales va más allá de la frescura.  
+Trabajé en en la producción, grabación y edición del podcast Punto Aparte, de Platea PR, de 2024 a 2025.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E1kDUVnrbXA" title="Crystal Díaz: Apuesta a la producción agrícola local | Punto Aparte Ep. 18" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
