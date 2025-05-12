@@ -7,8 +7,8 @@ featured_image: '/images/audio.png'
 **Lanzan tráiler de la nueva temporada de Doctor Who (2019)**
 
 Mi reacción al tráiler de la nueva temporada de Doctor Who, que regresó a principios de 2020. Grabación y edición.
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5qw1LNtRvwJmi8V04AQwBT?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<br>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5qw1LNtRvwJmi8V04AQwBT?utm_source=generator&theme=0" width="560" height="315" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Crystal Díaz: Apuesta a la producción agrícola local (Platea PR, 2025)**
 
