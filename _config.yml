@@ -1,0 +1,15 @@
+# Site settings
+title: Janet Rodríguez, creadora de contenido digital autónoma y asistente editorial 
+tag_text: Biscuit
+description: Mi nombre es Janet Rodríguez y creo contenido para emprendedores y empresas, al mismo tiempo que ayudo a traer libros al mundo
+# baseurl: "/blog" # the subpath of your site, e.g. /blog
+# url: "https://example.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+plugins:
+  - jekyll-seo-tag
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
